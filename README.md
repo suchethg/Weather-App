@@ -49,5 +49,5 @@ Forecast Request
 A Forecast Request returns the current weather conditions, a minute-by-minute forecast for the next hour (where available), an hour-by-hour forecast for the next 48 hours, and a day-by-day forecast for the next week.
 
 
-3.Dev Ed
+
 
